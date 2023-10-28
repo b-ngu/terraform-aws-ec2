@@ -30,6 +30,7 @@ module "my_ec2_instance" {
   root_block_device_volume_size= 20
   
 }
+```
 
 Replace `path_to_this_module` with the path to where you have this module.
 
